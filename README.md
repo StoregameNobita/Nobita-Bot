@@ -1,8 +1,8 @@
-# Kuhong-V4
-Recode SC : Nurutomo
+# Nobita-Bot
+Recode SC : FF NOBITA
 
 # NOTE :
-JANGAN UBAH NAMA BOT BIAR BOTNYA GAK RUSAK!!
+JANGAN LUPA HASTAG NYA BRO!!
 
 ### FOR TERMUX USER
 ```bash
