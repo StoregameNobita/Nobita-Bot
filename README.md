@@ -182,3 +182,4 @@ JANGAN UBAH NAMA BOT BIAR BOTNYA GAK RUSAK!!
 ##### Created By : [`Nurutomo`](https://GitHub.com/Nurutomo) 
 ##### Recoded By : [`FF NOBITA`](https://GitHub.com/StoregameNobita) 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" alt="dino" width="600" />
